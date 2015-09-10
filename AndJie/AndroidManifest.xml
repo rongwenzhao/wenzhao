@@ -3,7 +3,7 @@
     package="com.jwzhangjie.andbase"
     android:versionCode="1"
     android:versionName="1.0" >
-
+	<!-- owner rongwenzhao -->
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="9" />
