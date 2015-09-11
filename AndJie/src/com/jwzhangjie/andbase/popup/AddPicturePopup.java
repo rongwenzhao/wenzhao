@@ -2,14 +2,6 @@ package com.jwzhangjie.andbase.popup;
 
 import java.io.File;
 
-import com.jwzhangjie.andbase.JieApp;
-import com.jwzhangjie.andbase.R;
-import com.jwzhangjie.andbase.ui.base.JieBasePopup;
-import com.jwzhangjie.andbase.util.JieContant;
-import com.lidroid.xutils.ViewUtils;
-import com.lidroid.xutils.view.annotation.ViewInject;
-import com.lidroid.xutils.view.annotation.event.OnClick;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
@@ -21,6 +13,14 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup.LayoutParams;
 import android.widget.TextView;
+
+import com.jwzhangjie.andbase.JieApp;
+import com.jwzhangjie.andbase.R;
+import com.jwzhangjie.andbase.ui.base.JieBasePopup;
+import com.jwzhangjie.andbase.util.JieContant;
+import com.lidroid.xutils.ViewUtils;
+import com.lidroid.xutils.view.annotation.ViewInject;
+import com.lidroid.xutils.view.annotation.event.OnClick;
 
 /**
  * title: AddPicturePopup.java

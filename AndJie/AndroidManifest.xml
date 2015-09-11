@@ -23,12 +23,31 @@
         <activity
             android:name="com.jwzhangjie.andbase.doc.SelectPicUsed"
             android:label="@string/app_name" >
+            <!-- <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter> -->
+        </activity>
+        
+        <activity
+            android:name="com.jwzhangjie.andbase.ui.activities.CirlImageViewActivity"
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.jwzhangjie.andbase.ui.activities.ImageSelectActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.jwzhangjie.andbase.ui.activities.PhotoActivity"
+            android:label="@string/app_name" >
+        </activity>
+        
     </application>
 
 </manifest>
