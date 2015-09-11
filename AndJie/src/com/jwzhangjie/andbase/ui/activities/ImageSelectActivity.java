@@ -33,9 +33,8 @@ import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 
 /**
- * 加载本地所有图片activity
  * 
- * 
+ *加载本地所有图片activity
  */
 public class ImageSelectActivity extends Activity implements
 		OnClickListener {

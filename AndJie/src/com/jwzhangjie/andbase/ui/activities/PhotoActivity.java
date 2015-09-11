@@ -21,9 +21,7 @@ import com.jwzhangjie.andbase.ui.base.BaseActivity;
 import com.jwzhangjie.andbase.util.Bimp;
 
 /**
- * 图片预览
- * 
- * 
+  * 图片预览
  */
 public class PhotoActivity extends BaseActivity {
 
